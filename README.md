@@ -21,6 +21,16 @@ An extensive, open-source collection of **176 Free Tailwind CSS UI components**,
 | 8 | Enhanced Checkbox Group | Forms | [View on ApexCode Studios](https://apexcodestudios.com) |
 | 9 | Contact Us Section | Forms | [View on ApexCode Studios](https://apexcodestudios.com) |
 | 10 | Simple File Uploader | Forms | [View on ApexCode Studios](https://apexcodestudios.com) |
+| 176 | VertexPulse Live Job Offers Dashboard | Jobs, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/vertexpulse-live-job-offers-dashboard-PU3es) |
+| 175 | VortexScale Adaptive Pricing Tiers | Pricing | [View on ApexCode Studios](https://apexcodestudios.com/component/vortexscale-adaptive-pricing-tiers-UGc6Y) |
+| 174 | VortexCanvas Creator Spotlight Gallery | Profile, Instagram, User, Social Network | [View on ApexCode Studios](https://apexcodestudios.com/component/vortexcanvas-creator-spotlight-gallery-7GGiW) |
+| 173 | Helixora Sovereign Account Center | User, Dashboard | [View on ApexCode Studios](https://apexcodestudios.com/component/helixora-sovereign-account-center-RLlHQ) |
+| 172 | Astralyn Signature Profile Cards | Profile, User, Cards | [View on ApexCode Studios](https://apexcodestudios.com/component/astralyn-signature-profile-cards-En5u9) |
+| 171 | NebulaShift Avatar Uploader Experience | Forms, Cards | [View on ApexCode Studios](https://apexcodestudios.com/component/nebulashift-avatar-uploader-experience-Lk5Bj) |
+| 170 | QuasarForge Elite User Dashboard Card | User, Freelance Marketplace, Dashboard | [View on ApexCode Studios](https://apexcodestudios.com/component/quasarforge-elite-user-dashboard-card-exnH3) |
+| 169 | AuroraForge Radiant Team Showcase | Teams | [View on ApexCode Studios](https://apexcodestudios.com/component/auroraforge-radiant-team-showcase-nRswc) |
+| 168 | Freelance Signature Footer Experience | Footer, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/freelance-signature-footer-experience-1yJE5) |
+| 167 | AetherBloom Radiant Join the Movement | Call to Action | [View on ApexCode Studios](https://apexcodestudios.com/component/aetherbloom-radiant-join-the-movement-pPUmX) |
 
 ---
 
