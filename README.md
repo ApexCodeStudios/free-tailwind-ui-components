@@ -31,44 +31,6 @@ An extensive, open-source collection of **176 Free Tailwind CSS UI components**,
 | 169 | AuroraForge Radiant Team Showcase | Teams | [View on ApexCode Studios](https://apexcodestudios.com/component/auroraforge-radiant-team-showcase-nRswc) |
 | 168 | Freelance Signature Footer Experience | Footer, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/freelance-signature-footer-experience-1yJE5) |
 | 167 | AetherBloom Radiant Join the Movement | Call to Action | [View on ApexCode Studios](https://apexcodestudios.com/component/aetherbloom-radiant-join-the-movement-pPUmX) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | 35 | Dynamic Multi-Framework Category Slider & Carousel Showcase | Sliders, Categories | [View on ApexCode Studios](https://apexcodestudios.com/component/dynamic-multi-framework-category-slider-carousel-showcase-1OmII) |
 | 34 | Prismatic Magazine Spotlight Grid | Blog | [View on ApexCode Studios](https://apexcodestudios.com/component/prismatic-magazine-spotlight-grid-148M9) |
 | 33 | Dynamic Adaptive Category Explorer Grid | Categories | [View on ApexCode Studios](https://apexcodestudios.com/component/dynamic-adaptive-category-explorer-grid-JiuvF) |
