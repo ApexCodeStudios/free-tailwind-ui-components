@@ -1,6 +1,6 @@
 # 🎨 184+ Free Tailwind CSS UI Components
 
-An extensive, open-source collection of **164 Free Tailwind CSS UI components**, ready to drop into your projects. Built with performance, accessibility, and modern design in mind.
+An extensive, open-source collection of **184 Free Tailwind CSS UI components**, ready to drop into your projects. Built with performance, accessibility, and modern design in mind.
 
 👉 **[Visit ApexCodeStudios.com to view all components and live previews](https://apexcodestudios.com)**
 
