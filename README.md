@@ -1,6 +1,6 @@
-# 🎨 176+ Free Tailwind CSS UI Components
+# 🎨 184+ Free Tailwind CSS UI Components
 
-An extensive, open-source collection of **176 Free Tailwind CSS UI components**, ready to drop into your projects. Built with performance, accessibility, and modern design in mind.
+An extensive, open-source collection of **164 Free Tailwind CSS UI components**, ready to drop into your projects. Built with performance, accessibility, and modern design in mind.
 
 👉 **[Visit ApexCodeStudios.com to view all components and live previews](https://apexcodestudios.com)**
 
@@ -11,6 +11,14 @@ An extensive, open-source collection of **176 Free Tailwind CSS UI components**,
 
 | # | Component Name | Category | Direct Preview / Code Link |
 | :- | :--- | :--- | :--- |
+| 184 | HorizonPulse Enchanting Freelance Marketplace Hero | Heroes, Jobs, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/horizonpulse-enchanting-freelance-marketplace-hero-S1cj9) |
+| 183 | LuminaQuest Vibrant Freelance Job Discovery Board | Jobs, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/luminaquest-vibrant-freelance-job-discovery-board-ZV4Dm) |
+| 182 | ElysiumForge Signature Profile Card | Portfolio, Profile, User | [View on ApexCode Studios](https://apexcodestudios.com/component/elysiumforge-signature-profile-card-bVrCP) |
+| 181 | SpectraNova Prestige Professional Profile Canvas | Portfolio, Profile, User | [View on ApexCode Studios](https://apexcodestudios.com/component/spectranova-prestige-professional-profile-canvas-ttppD) |
+| 180 | NebulaForge Cosmic Account Creation Gateway | Forms, Register | [View on ApexCode Studios](https://apexcodestudios.com/component/nebulaforge-cosmic-account-creation-gateway-Lim5D) |
+| 179 | NebulaForge Celestial Sign-In Portal | Forms, Login | [View on ApexCode Studios](https://apexcodestudios.com/component/nebulaforge-celestial-sign-in-portal-fyuoE) |
+| 178 | Celestara Profile Odyssey | Profile, User, User List, Cards | [View on ApexCode Studios](https://apexcodestudios.com/component/celestara-profile-odyssey-uzhz1) |
+| 177 | QuasarPulse Notification Nexus | Notifications | [View on ApexCode Studios](https://apexcodestudios.com/component/quasarpulse-notification-nexus-PhAag) |
 | 176 | VertexPulse Live Job Offers Dashboard | Jobs, Freelance Marketplace | [View on ApexCode Studios](https://apexcodestudios.com/component/vertexpulse-live-job-offers-dashboard-PU3es) |
 | 175 | VortexScale Adaptive Pricing Tiers | Pricing | [View on ApexCode Studios](https://apexcodestudios.com/component/vortexscale-adaptive-pricing-tiers-UGc6Y) |
 | 174 | VortexCanvas Creator Spotlight Gallery | Profile, Instagram, User, Social Network | [View on ApexCode Studios](https://apexcodestudios.com/component/vortexcanvas-creator-spotlight-gallery-7GGiW) |
